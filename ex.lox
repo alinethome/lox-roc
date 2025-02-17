@@ -1,0 +1,9 @@
+class Class1 {
+				sayHello(arg1, arg2) {
+								print "hello!";
+				}
+
+				add3(arg1) {
+								return 3 + arg1;
+				}
+}
