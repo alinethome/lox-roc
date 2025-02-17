@@ -14,6 +14,7 @@ As only the scanner has been implemented, executing the compiler with a lox file
 
 For the scanner: 
   * Implement better error handling with line numbers included. 
+  * Add/fix missing type annotations for helper functions. 
   * Clean up some of the migrated code (from the migration to 0.0.0-alpha2) for more consistent styling (especially around 'try'). 
   * Implement tests. 
 
