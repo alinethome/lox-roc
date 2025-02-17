@@ -46,5 +46,4 @@ Token : [
     # Others
     EndOfFile,
     IgnoredChars,
-    UnknownChar U8,
 ]
