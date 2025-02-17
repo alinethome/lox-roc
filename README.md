@@ -13,11 +13,11 @@ As only the scanner has been implemented, executing the compiler with a lox file
 ## To-Do
 
 For the scanner: 
-    * Implement better error handling with line numbers included. 
-    * Clean up some of the migrated code (from the migration to 0.0.0-alpha2) for more consistent styling (especially around 'try'). 
-    * Implement tests. 
+  * Implement better error handling with line numbers included. 
+  * Clean up some of the migrated code (from the migration to 0.0.0-alpha2) for more consistent styling (especially around 'try'). 
+  * Implement tests. 
 
 In general:
-    * Implement parsing and evaluating. 
-    * Implement REPL functionality. 
+  * Implement parsing and evaluating. 
+  * Implement REPL functionality. 
 
