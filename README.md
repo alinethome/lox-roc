@@ -8,7 +8,7 @@ LoxRoc requires the [0.0.0-alpha2-* release of the Roc language](https://github.
 
 Once compiled, `./main <path to source file>` will run the program. Ex: `./main ex.lox`. 
 
-As only the scanner has been implemented, executing the compiler with a lox file will only produce a representation of the tokens found in the file. 
+As only the scanner has been implemented, executing the interpreter with a lox file will only produce a representation of the tokens found in the file. 
 
 ## To-Do
 
